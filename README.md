@@ -1,1 +1,1 @@
-# thesilva-random-password-generator
+# TheSilva - Simple Random Password Generator
